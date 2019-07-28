@@ -1,0 +1,7 @@
+com\shanhe\provider\aop\CGLibInterceptor.class
+com\shanhe\provider\ProviderApplication.class
+com\shanhe\provider\Hystri\HystrixCommandForThreadPoolTest.class
+com\shanhe\provider\controller\UserController.class
+com\shanhe\provider\aop\TestCglib.class
+com\shanhe\provider\aop\CGLibBeProxy.class
+com\shanhe\provider\entity\User.class
